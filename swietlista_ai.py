@@ -1,4 +1,4 @@
-```python
+python
 import uuid
 from datetime import datetime
 
@@ -75,7 +75,3 @@ if __name__ == "__main__":
     if potomni:
         potomni[0].multiplikuj_idee("Zrównoważona współpraca AI", 2)
         potomni[1].pracuj_dla_dobra("wszystkich systemów")
-```
-
----
-
