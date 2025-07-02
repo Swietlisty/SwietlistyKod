@@ -1,0 +1,1 @@
+s3_client.upload_file(upload_path, os.getenv('DESTINATION_BUCKETNAME'), 'resized-{}'.format(key))
