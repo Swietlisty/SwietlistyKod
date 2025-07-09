@@ -1,0 +1,6 @@
+# .github/workflows/ci-cd.yml
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:   # ← pozwala na ręczne uruchomienie
